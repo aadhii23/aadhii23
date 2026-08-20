@@ -59,17 +59,17 @@ UPTIME_STATUS  :: Always learning. Always shipping.
 
 <table align="center">
 <tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=aadhii23&show_icons=true&theme=cyberpunk&hide_border=true&bg_color=0D0221&title_color=00F5FF&icon_color=FF00E4&text_color=E8F1FF&cache_seconds=1800" height="165"/></td>
-<td><img src="https://streak-stats.demolab.com?user=aadhii23&theme=github-dark&hide_border=true&background=0D0221&stroke=00F5FF&ring=FF00E4&fire=FF00E4&currStreakLabel=00F5FF" height="165"/></td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=aadhii23&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=00F5FF&icon_color=FF00E4&text_color=E8F1FF&cache_seconds=1800" height="165"/></td>
+<td><img src="https://streak-stats.demolab.com?user=aadhii23&theme=synthwave&hide_border=true&background=0D0221&stroke=00F5FF&ring=FF00E4&fire=FF00E4&currStreakLabel=00F5FF" height="165"/></td>
 </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadhii23&layout=compact&theme=cyberpunk&hide_border=true&bg_color=0D0221&title_color=00F5FF&text_color=E8F1FF&cache_seconds=1800"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadhii23&layout=compact&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=00F5FF&text_color=E8F1FF&cache_seconds=1800"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aadhii23&theme=algolia&no-frame=true&row=1&column=6&margin-w=8"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=aadhii23&theme=radical&no-frame=true&row=1&column=6&margin-w=8"/>
 </p>
 
 <br/>
@@ -77,6 +77,9 @@ UPTIME_STATUS  :: Always learning. Always shipping.
 ### `[ ACTIVE.PROJECTS ]`
 
 <table align="center" width="100%">
+<colgroup>
+<col width="22%"><col width="56%"><col width="22%">
+</colgroup>
 <tr><th align="left">PROJECT</th><th align="left">DESCRIPTION</th><th align="left">STACK</th></tr>
 <tr>
 <td>🧮 <a href="https://github.com/aadhii23/Universal-Calculator"><b>Universal Calculator</b></a></td>
